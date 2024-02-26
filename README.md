@@ -1,5 +1,7 @@
 # BEM_BigWham
 
+In this repository, some engineering problems are solved using the Boundary Element Method (BEM). For the BEM formulation, BigWHam library is used, which is developed under Prof. Brice Lecampion's Geo-Energy Lab (GEL) at École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. For further details on BigWham: https://github.com/GeoEnergyLab-EPFL/BigWham. 
+
 Filename and their descriptions:
 
 griffith_mesh_convergence_study.ipynb: In this problem, an infinitesimal crack of width 2a (also called Griffith’s crack) is subjected to
